@@ -3,7 +3,6 @@ export default {
     resolve: {
 		alias: {
 			components: '/src/components',
-			characters: '/src/characters',
 			entities: '/src/entities',
 			lib: '/src/lib',
             src: '/src',
