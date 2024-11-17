@@ -4,7 +4,8 @@ const actions = {
         KeyS: 'move_down',
         KeyA: 'move_left',
         KeyD: 'move_right',
-        KeyJ: 'shoot',
+        KeyJ: 'shoot_bullet',
+        KeyK: 'shoot_laser',
     },
 }
 
