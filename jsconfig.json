@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "components/*": ["./src/components/*"],
+            "characters/*": ["./src/characters/*"],
+            "entities/*": ["./src/entities/*"],
+            "lib/*": ["./src/lib/*"],
+            "src/*": ["./src/*"],
+        }
+    },
+    "exclude": ["dist"]
+}
